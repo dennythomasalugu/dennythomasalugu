@@ -1,7 +1,7 @@
 # Hi, I'm Alugu Denny Thomas 👋
 
 🎓 MTech CSE (Analytics) — NIT Delhi (2025–2027)  
-🔬 Research: Health AI | Biomedical Signal Processing | Computer Vision  
+🔬 Research: Health AI | Machine Learning | Computer Vision  
 📄 Published: Springer ICMEET-2024  
 
 ## 🧠 Research Interests
